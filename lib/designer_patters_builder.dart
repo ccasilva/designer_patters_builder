@@ -56,5 +56,4 @@ Future<void> execute() async {
       .run();
   print(resultGet.data);
   print('GET com QueryParameters');
-  print('###############################################################');
 }
